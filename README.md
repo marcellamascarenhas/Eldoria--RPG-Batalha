@@ -160,11 +160,12 @@ eldoria.py
 ## 👥 Créditos
 
 Desenvolvido como projeto acadêmico - Bacharelado em Ciência da Computação - UFRPE
-Marcella Mascarenhas (UFRPE) - marcella.mascarenhas@ufrpe.br
-Julia Pappen (UFRPE) - julia.pappen@ufrpe.br
-Enzo Estevão (UFRPE) - enzo.estevao@ufrpe.br
-Eduarda Freitas (UFRPE) - eduarda.freitas@ufrpe.br
-Raí Camilo - raicamilodequeiroz@gmail.com
+
+- Marcella Mascarenhas (UFRPE) - marcella.mascarenhas@ufrpe.br
+- Julia Pappen (UFRPE) - julia.pappen@ufrpe.br
+- Enzo Estevão (UFRPE) - enzo.estevao@ufrpe.br
+- Eduarda Freitas (UFRPE) - eduarda.freitas@ufrpe.br
+- Raí Camilo - raicamilodequeiroz@gmail.com
 
 
 - **Motor**: Python 3 + Pygame 2
